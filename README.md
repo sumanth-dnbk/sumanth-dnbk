@@ -7,9 +7,9 @@
 - 🤔 I’m looking for help with job interviews<your problem>
 - 💬 Ask me about Algorithms, Systems and React Native<your expertise>
 - 📫 My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/sumanth-reddy-333ab3150/) <your linkedin url><your contact info>
--     I code on [LeetCode](https://leetcode.com/sumanth_dnbk/)
--     My Youtube Page(relatively young 😄) : [Videos](https://www.youtube.com/@stumbled001/videos)
-- ⚡ Fun fact: I have all the gaming peripherals(joystick, gaming mouse, gaming monitor) except a gaming laptop.
+- I code on [LeetCode](https://leetcode.com/sumanth_dnbk/)
+- My [Youtube](https://www.youtube.com/@stumbled001/videos) Page(relatively young 😄) has a few videos
+- ⚡ Fun fact: I have all the gaming peripherals(joystick, gaming mouse, gaming monitor) except a gaming laptop
 
 
 
