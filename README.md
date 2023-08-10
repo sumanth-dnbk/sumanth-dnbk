@@ -3,11 +3,13 @@
 ## I'm a student pursuing Masters in computer science at University at Buffalo<your role>!
 
 - 🔭 I’m currently working on <your project> disease spread simulation using MPI
-- 🌱 I’m currently learning <your topic> Parallel Algorithms
+- 🌱 I’m currently learning to create Youtube vidoes (Script, Video Recording, Editing, Thumbnails)
 - 🤔 I’m looking for help with job interviews<your problem>
-- 💬 Ask me about Algorithms and systems<your expertise>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumanth-reddy-333ab3150/) <your linkedin url><your contact info>
-- ⚡ Fun fact: I have all the gaming peripherals(gamepad, gaming mouse, gaming monitor) except a gaming laptop.
+- 💬 Ask me about Algorithms, Systems and React Native<your expertise>
+- 📫 My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/sumanth-reddy-333ab3150/) <your linkedin url><your contact info>
+- I code on [LeetCode](https://leetcode.com/sumanth_dnbk/)
+- My Youtube Page(relatively young 😄) : [Videos](https://www.youtube.com/@stumbled001/videos)
+- ⚡ Fun fact: I have all the gaming peripherals(joystick, gaming mouse, gaming monitor) except a gaming laptop.
 
 
 
